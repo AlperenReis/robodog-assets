@@ -1,0 +1,16 @@
+{
+  "name": "ROBO DOG",
+  "symbol": "RBOD",
+  "description": "ROBO DOG is a cyberpunk robotic dog meme token on Solana.",
+  "image": "https://raw.githubusercontent.com/AlperenReis/robodog-assets/main/robodog-logo.png",
+  "attributes": [
+    {
+      "trait_type": "Theme",
+      "value": "Cyberpunk"
+    },
+    {
+      "trait_type": "Mascot",
+      "value": "Robot Dog"
+    }
+  ]
+}
